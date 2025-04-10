@@ -1,6 +1,4 @@
 import Image from "next/image";
-import fs from 'fs';
-import Papa from 'papaparse';
 
 
 
